@@ -1,0 +1,82 @@
+h1
+{ color: red;
+font-size: 40px;
+background-color:#282A3A;
+font-style:italic;
+padding:50px;
+
+}
+
+body
+{
+  background-color: black;
+}
+
+.Headphone {
+    color: white;
+    font-size: 25px;
+    background-color: #6B728E;
+    font-style: italic;
+    padding: 25px;
+}
+
+.Photos {
+    color: blue;
+    background-color: black;
+
+}
+
+.Photos img{
+  padding-right:  1500px;
+}
+
+.table {
+    font-style:italic;
+    background-color:#404258;
+    color: white;
+    width: 100%;
+    font-size: 20px;
+}
+
+
+
+a{
+  font-style:italic;
+  color: red;
+}
+
+table:hover {
+
+    background-color: #443C68;
+}
+
+#myHeader
+{ color: white;
+font-size:25px;
+background-color:#6B728E;
+font-style:italic;
+padding: 25px;
+}
+
+.banks
+{
+background-color: black;
+color: white;
+padding: 5px;
+font-style:italic;
+font-size:20px;
+
+}
+
+.Offers
+{
+  background-color: black;
+  color: white;
+  padding: 5px;
+  font-style:italic;
+font-size:20px;
+
+
+
+
+}
